@@ -134,4 +134,13 @@
     <color name="widget_subtitle_color">#333333</color>
     <color name="widget_title_color">#333333</color>
     <color name="widget_unread_color">#777777</color>
+
+    <!-- colors from layouts -->
+    <color name="white_bg">#ffffff</color>
+    <color name="gray_bg">#aaaaaa</color>
+    <color name="gray_text">#555555</color>
+    <color name="black_text">#000000</color>
+    <color name="attachment_title">#333333</color>
+    <color name="attachment_subtitle">#aaaaaa</color>
+    <color name="quoted_text_bg">#babebe</color>
 </resources>
